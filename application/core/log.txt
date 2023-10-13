@@ -1,0 +1,2 @@
+2023-09-07 08:37:06 {"body":"{\"login\":\"admin\",\"password\":\"bonfire_89\",\"last_name\":\"Обухов\",\"first_name\":\"Данил\"}"}
+2023-09-07 08:39:37 {"body":"{\"login\":\"admin\",\"password\":\"bonfire_89\",\"last_name\":\"Данил\",\"first_name\":\"Обухов\"}"}
